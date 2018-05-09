@@ -1,0 +1,9 @@
+Bundle-Name: RestaurantServiceBuilder-api
+Bundle-SymbolicName: org.liferayasif.sb.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	org.liferayasif.sb.exception,\
+	org.liferayasif.sb.model,\
+	org.liferayasif.sb.service,\
+	org.liferayasif.sb.service.persistence
+-includeresource: META-INF/service.xml=../RestaurantServiceBuilder-service/service.xml

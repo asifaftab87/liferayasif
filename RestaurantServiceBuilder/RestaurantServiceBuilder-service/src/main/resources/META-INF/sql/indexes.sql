@@ -1,0 +1,1 @@
+create index IX_DF4592D1 on AA_Menu (type_[$COLUMN_LENGTH:75$]);

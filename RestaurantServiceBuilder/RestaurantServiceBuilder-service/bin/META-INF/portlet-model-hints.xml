@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<model-hints>
+	<model name="org.liferayasif.sb.model.Menu">
+		<field name="menuId" type="long" />
+		<field name="type" type="String" />
+		<field name="foodName" type="String" />
+		<field name="price" type="long" />
+	</model>
+</model-hints>
