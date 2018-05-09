@@ -1,0 +1,5 @@
+Bundle-Name: RestaurantProject
+Bundle-SymbolicName: org.liferayasif.restautrant
+Bundle-Version: 1.0.0
+Export-Package: org.liferayasif.restautrant.constants
+Web-ContextPath: /RestaurantProject
